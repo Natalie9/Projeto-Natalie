@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div>
         <NavBar />
-               
+        <Link to='/'> Pagina 0 - </Link>         
         <Link to='/inicio'>Pagina 1 - </Link> 
         <Link to='/atividades'>Pagina 2</Link>
       </div>
